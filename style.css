@@ -1,3 +1,12 @@
 body {
     background-color: azure;
 }
+
+
+.lspace {
+    padding-left: 8vw;
+}
+
+.vtop {
+  margin-top: 7vh;
+}
