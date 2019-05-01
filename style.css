@@ -3,6 +3,10 @@ body {
 }
 
 
+.list {
+  list-style-type: none;
+}
+
 .lspace {
     padding-left: 8vw;
 }
