@@ -12,6 +12,11 @@ body {
     padding-left: 8vw;
 }
 
+.vbottom {
+  margin-bottom: 3vh;
+}
+
 .vtop {
   margin-top: 7vh;
 }
+
