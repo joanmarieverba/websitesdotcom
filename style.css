@@ -12,9 +12,9 @@ body {
     padding-left: 8vw;
 }
 
-/* .right {
-  text-align: right;
-} */
+.title-color {
+  color: mediumvioletred;
+}
 
 .vbottom {
   margin-bottom: 3vh;
