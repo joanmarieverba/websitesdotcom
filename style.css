@@ -20,6 +20,10 @@ body {
   padding-top: 3vh;
 }
 
+.ptop2 {
+  padding-top: 7vh;
+}
+
 .subtitle-color {
   color: darkviolet;
 }
